@@ -1,0 +1,16 @@
+Alice 66.4
+Bob 51.2
+Charlie 58
+David 52
+Emily 60.2
+Frank 57
+Grace 39.6
+Henry 52.2
+Ivy 56
+Jack 55
+min - 6
+max - 97
+class average - 54.76
+mode - 95
+median - 61.0
+variance - 849.3697959183673
